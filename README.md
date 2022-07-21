@@ -1,6 +1,17 @@
 # Getting Started with Create React App
+LIVE LINK:   https://avinash2507.github.io/young-lab-task/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Performance in LightHouse->
+![Screenshot 2022-07-21 224723](https://user-images.githubusercontent.com/93754695/180275200-b19bb191-0677-4303-a4ba-b4c4601df7fe.png)
+![Screenshot 2022-07-21 224805](https://user-images.githubusercontent.com/93754695/180275470-94ff994f-f880-4262-bf2c-978fab229bb5.png)
+
+
+
+##ScreenShot:
+![Screenshot 2022-07-21 224855](https://user-images.githubusercontent.com/93754695/180275600-4c2e876d-8877-4e28-9c56-f02b18eb9c24.png)
+
+![Screenshot 2022-07-21 224943](https://user-images.githubusercontent.com/93754695/180275693-0ebfaf24-0afc-4642-958e-af68b685601a.png)
+
 
 ## Available Scripts
 
