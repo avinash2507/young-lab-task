@@ -1,23 +1,20 @@
 import logo from './logo.svg';
 import './App.css';
+import Navbar from './Landing_page/Navbar';
+import Main_corousal from './Top_block/Main_corousal';
+import ProductCard from './components/ProductCard/ProductCard';
+import ProductLayout from './components/ProductLayout/ProductLayout';
+import { GlobalProvider } from './reducer/globalContext';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+        <GlobalProvider> 
+          <Navbar/>
+    <Main_corousal/>
+    <ProductLayout />
+          </GlobalProvider> 
+  
     </div>
   );
 }

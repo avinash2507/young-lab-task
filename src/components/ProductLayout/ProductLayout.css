@@ -1,0 +1,29 @@
+.productLayoutContainer{
+    display: flex;
+    /* display: grid; */
+flex-wrap: wrap;
+    gap: 1rem;
+/* grid-template-columns: 1fr 1fr 1fr 1fr; */
+    margin: 1rem auto;
+    justify-content: center;
+
+}
+.productContainer{
+    width: 100%;
+}
+
+.productLayoutContainer{
+    width: 92%;
+    margin-top: 7rem;
+}
+/* laoding */
+.loading{
+    width: 87%;
+    height: 250px;
+    object-fit: cover;   
+}
+@media screen and (max-width: 768px){
+    .productLayoutContainer{
+        margin-top: 3rem;
+    }
+}

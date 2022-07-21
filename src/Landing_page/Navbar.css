@@ -1,0 +1,68 @@
+
+.header_container {
+  width: 100%;
+}
+.navbar {
+
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+  height: 100px;
+}
+.navbar h2 {
+  margin: 5px;
+  font-size: 20px;
+}
+.navbar ul {
+  list-style: none;
+}
+.navbar ul li {
+  margin:10px 0px;
+}
+.navbar ul li a {
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.3rem;
+    line-height: 150%;
+}
+.navbar ul li a:active {
+  border-bottom: 2px solid red;
+}
+.navbar ul li a:hover {
+  border-bottom: 2px solid red;
+}
+@media (min-width: 218px) and (max-width:450px){
+    .navbar ul li a {
+               font-size: .7rem;
+        line-height: 100%;
+}
+.navbar h2 {
+    margin: 5px;
+    font-size: 15px;
+  }
+.navbar{
+    height: 42px;
+}
+}
+@media (min-width: 451px) and (max-width:780px){
+
+    .navbar ul li a {
+        font-size: 1rem;
+ line-height: 130%;
+}
+.navbar h2 {
+margin: 10px;
+font-size: 1.5rem;
+}
+.navbar{
+    height: 60px;
+}
+}
+  

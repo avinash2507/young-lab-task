@@ -1,0 +1,50 @@
+.productCard {
+  background: #ffffff;
+  box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+  padding: 12px 16px;
+  width: 296px;
+  cursor: pointer;
+}
+.productCard h1 {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 135%;
+  color: #000000;
+}
+.productCard p {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  color: rgba(0, 0, 0, 0.6);
+}
+.productCard P:last-child {
+  font-size: 15px;
+  line-height: 150%;
+  color: #e16259;
+}
+.active{
+    background: #A259FF;
+/* Medium Shadow */
+
+box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.2);
+border-radius: 4px;
+color: white;
+}
+.active p, .active h1,.active p:last-child{
+    color: white ;
+}
+@media (min-width: 380px) and (max-width: 780px) {
+    .productCard {
+        justify-content: center;
+        width: 180px;
+        cursor: pointer;
+        overflow: hidden;
+    }
+    .productCard h1 {
+        font-size: 15px;
+      }
+      .productCard P:last-child {
+        font-size: 8px;
+}
+}
