@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/avinash2507/young-lab-task/static/css/main.3b1aa060.css",
-    "main.js": "/avinash2507/young-lab-task/static/js/main.40de81df.js",
-    "static/js/787.7fd691c2.chunk.js": "/avinash2507/young-lab-task/static/js/787.7fd691c2.chunk.js",
-    "static/media/logo.svg": "/avinash2507/young-lab-task/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/avinash2507/young-lab-task/index.html",
-    "main.3b1aa060.css.map": "/avinash2507/young-lab-task/static/css/main.3b1aa060.css.map",
-    "main.40de81df.js.map": "/avinash2507/young-lab-task/static/js/main.40de81df.js.map",
-    "787.7fd691c2.chunk.js.map": "/avinash2507/young-lab-task/static/js/787.7fd691c2.chunk.js.map"
+    "main.css": "/avinash2507/young-lab/static/css/main.3b1aa060.css",
+    "main.js": "/avinash2507/young-lab/static/js/main.f4c9e5d5.js",
+    "static/js/787.7fd691c2.chunk.js": "/avinash2507/young-lab/static/js/787.7fd691c2.chunk.js",
+    "static/media/logo.svg": "/avinash2507/young-lab/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/avinash2507/young-lab/index.html",
+    "main.3b1aa060.css.map": "/avinash2507/young-lab/static/css/main.3b1aa060.css.map",
+    "main.f4c9e5d5.js.map": "/avinash2507/young-lab/static/js/main.f4c9e5d5.js.map",
+    "787.7fd691c2.chunk.js.map": "/avinash2507/young-lab/static/js/787.7fd691c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b1aa060.css",
-    "static/js/main.40de81df.js"
+    "static/js/main.f4c9e5d5.js"
   ]
 }
